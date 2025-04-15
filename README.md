@@ -7,3 +7,4 @@ En este taller treballarem el següent:
 - Branques, fusions i conflictes
 - Resolució de conflictes
 - Repositoris remots
+- Github i col·laboració
